@@ -1,5 +1,3 @@
-This is an image search application built by React!
+unsplash.com api kullanilarak olusturulmus bir resim arama motoru.
 
-All the images are created by amateur artists and are free to use!
-
-Edit.
+Class components, semantic UI, CSS Grid
